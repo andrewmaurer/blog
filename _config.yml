@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "genericpoint"
 facebook:
   username               :
   app_id                 :
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Andrew Maurer"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Mathematics graduate student at the University of Georgia."
+  location         : "Athens, Georgia."
+  email            : "andrew.b.maurer@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,18 +89,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "andrewmaurer"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "genericpoint"
   lastfm           :
-  linkedin         :
+  linkedin         : "andrewbmaurer"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : 
   vine             :
   weibo            :
   xing             :
