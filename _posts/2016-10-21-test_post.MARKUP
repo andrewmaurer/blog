@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Test Post
+title: Schemes
 ---
-This is a test post. $$\LaTeX$$
 
-Say I was typing out a statement like $$f(x)=x^2$$ and wanted it inline...
+Motivation
+==========
 
-$$ \LaTeX $$
+  
