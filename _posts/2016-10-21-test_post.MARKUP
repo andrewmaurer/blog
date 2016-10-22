@@ -2,6 +2,6 @@
 layout: single
 title: Test Post
 ---
-This is a test post. 
+This is a test post. $\LaTeX$
 
 $$ \LaTeX $$
