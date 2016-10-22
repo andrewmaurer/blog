@@ -4,4 +4,6 @@ title: Test Post
 ---
 This is a test post. $$\LaTeX$$
 
+Say I was typing out a statement like $$f(x)=x^2$$ and wanted it inline...
+
 $$ \LaTeX $$
