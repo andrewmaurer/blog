@@ -1,0 +1,7 @@
+# Develop override settings
+# bundle exec jekyll serve --config _config.yml,_config.dev.yml
+# optionally use the --drafts flag.
+
+url: http://127.0.0.1:4000
+
+
