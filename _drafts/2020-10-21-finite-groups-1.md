@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Finite Groups I -- What is a group?
+title: "Finite Groups I: What is a group?"
 category: math
 tags: [algebra, exposition, schemes]
 excerpt: Groups are procedures which can be undone, i.e. invertible functions. By exploring this hands-on view, we arrive at an intuitive definition of a group.

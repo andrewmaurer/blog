@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "genericpoint"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Maurer"
-  avatar           : "bio-photo.jpg"
+  avatar           : "andrew-avatar.jpg"
   bio              : "Mathematics graduate student at the University of Georgia."
   location         : "Athens, Georgia."
   email            : "andrew.b.maurer@gmail.com"
