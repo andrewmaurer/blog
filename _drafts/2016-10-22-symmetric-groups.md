@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Symmetric groups
-category: math/group-theory
+category: [math,group-theory]
 tags: [algebraic-geometry, exposition, schemes]
 ---
 
